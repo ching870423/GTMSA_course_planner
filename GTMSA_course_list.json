@@ -1,0 +1,372 @@
+{
+    "1": {
+        "course id": "1",
+        "course type": "waivable introductory",
+        "course code": "CSE6040"
+    },
+    "2": {
+        "course id": "2",
+        "course type": "waivable introductory",
+        "course code": "ISYE6501"
+    },
+    "3": {
+        "course id": "3",
+        "course type": "waivable introductory",
+        "course code": "MGT8803"
+    },
+    "4": {
+        "course id": "4",
+        "course type": "required",
+        "course code": "CSE6242"
+    },
+    "5": {
+        "course id": "5",
+        "course type": "required",
+        "course code": "MGT6203"
+    },
+    "6": {
+        "course id": "6",
+        "course type": "required",
+        "course code": "CSE6748"
+    },
+    "7": {
+        "course id": "7",
+        "course type": "required",
+        "course code": "ISYE6748"
+    },
+    "8": {
+        "course id": "8",
+        "course type": "required",
+        "course code": "MGT6748"
+    },
+    "9": {
+        "course id": "9",
+        "course type": "required",
+        "course code": "CSE6740"
+    },
+    "10": {
+        "course id": "10",
+        "course type": "required",
+        "course code": "CS7641"
+    },
+    "11": {
+        "course id": "11",
+        "course type": "required",
+        "course code": "ISYE6740"
+    },
+    "12": {
+        "course id": "12",
+        "course type": "b-electives",
+        "course code": "CS6730"
+    },
+    "13": {
+        "course id": "13",
+        "course type": "b-electives",
+        "course code": "ECON8803WB2"
+    },
+    "14": {
+        "course id": "14",
+        "course type": "b-electives",
+        "course code": "MGT6046"
+    },
+    "15": {
+        "course id": "15",
+        "course type": "b-electives",
+        "course code": "MGT6074"
+    },
+    "16": {
+        "course id": "16",
+        "course type": "b-electives",
+        "course code": "MGT6078"
+    },
+    "17": {
+        "course id": "17",
+        "course type": "b-electives",
+        "course code": "MGT6090"
+    },
+    "18": {
+        "course id": "18",
+        "course type": "b-electives",
+        "course code": "MGT6214"
+    },
+    "19": {
+        "course id": "19",
+        "course type": "b-electives",
+        "course code": "MGT6311"
+    },
+    "20": {
+        "course id": "20",
+        "course type": "b-electives",
+        "course code": "MGT6655"
+    },
+    "21": {
+        "course id": "21",
+        "course type": "b-electives",
+        "course code": "MGT6726"
+    },
+    "22": {
+        "course id": "22",
+        "course type": "c-electives",
+        "course code": "CS3510"
+    },
+    "23": {
+        "course id": "23",
+        "course type": "c-electives",
+        "course code": "CS4400"
+    },
+    "24": {
+        "course id": "24",
+        "course type": "c-electives",
+        "course code": "CS6220"
+    },
+    "25": {
+        "course id": "25",
+        "course type": "c-electives",
+        "course code": "CP6514"
+    },
+    "26": {
+        "course id": "26",
+        "course type": "c-electives",
+        "course code": "CS6515"
+    },
+    "27": {
+        "course id": "27",
+        "course type": "c-electives",
+        "course code": "CS6601"
+    },
+    "28": {
+        "course id": "28",
+        "course type": "c-electives",
+        "course code": "CS6730"
+    },
+    "29": {
+        "course id": "29",
+        "course type": "c-electives",
+        "course code": "CS7641"
+    },
+    "30": {
+        "course id": "30",
+        "course type": "c-electives",
+        "course code": "CS7643"
+    },
+    "31": {
+        "course id": "31",
+        "course type": "c-electives",
+        "course code": "CS7650"
+    },
+    "32": {
+        "course id": "32",
+        "course type": "c-electives",
+        "course code": "CS7750"
+    },
+    "33": {
+        "course id": "33",
+        "course type": "c-electives",
+        "course code": "CS8803MDS"
+    },
+    "34": {
+        "course id": "34",
+        "course type": "c-electives",
+        "course code": "CS8803NLP"
+    },
+    "35": {
+        "course id": "35",
+        "course type": "c-electives",
+        "course code": "CS8803SMR"
+    },
+    "36": {
+        "course id": "36",
+        "course type": "c-electives",
+        "course code": "CSE6010"
+    },
+    "37": {
+        "course id": "37",
+        "course type": "c-electives",
+        "course code": "CSE6140"
+    },
+    "38": {
+        "course id": "38",
+        "course type": "c-electives",
+        "course code": "CSE6230"
+    },
+    "39": {
+        "course id": "39",
+        "course type": "c-electives",
+        "course code": "CSE6643"
+    },
+    "40": {
+        "course id": "40",
+        "course type": "c-electives",
+        "course code": "CSE6644"
+    },
+    "41": {
+        "course id": "41",
+        "course type": "c-electives",
+        "course code": "CSE6740"
+    },
+    "42": {
+        "course id": "42",
+        "course type": "c-electives",
+        "course code": "CSE7750"
+    },
+    "43": {
+        "course id": "43",
+        "course type": "c-electives",
+        "course code": "CSE8803DSN"
+    },
+    "44": {
+        "course id": "44",
+        "course type": "c-electives",
+        "course code": "CSE8803DLT"
+    },
+    "45": {
+        "course id": "45",
+        "course type": "c-electives",
+        "course code": "CSE8803EPI"
+    },
+    "46": {
+        "course id": "46",
+        "course type": "c-electives",
+        "course code": "ISYE6740"
+    },
+    "47": {
+        "course id": "47",
+        "course type": "c-electives",
+        "course code": "ISYE8812ZIA"
+    },
+    "48": {
+        "course id": "48",
+        "course type": "s-electives",
+        "course code": "CS7641"
+    },
+    "49": {
+        "course id": "49",
+        "course type": "s-electives",
+        "course code": "CSE6740"
+    },
+    "50": {
+        "course id": "50",
+        "course type": "s-electives",
+        "course code": "ISYE6402"
+    },
+    "51": {
+        "course id": "51",
+        "course type": "s-electives",
+        "course code": "ISYE6404"
+    },
+    "52": {
+        "course id": "52",
+        "course type": "s-electives",
+        "course code": "ISYE6405"
+    },
+    "53": {
+        "course id": "53",
+        "course type": "s-electives",
+        "course code": "ISYE6412"
+    },
+    "54": {
+        "course id": "54",
+        "course type": "s-electives",
+        "course code": "ISYE6413"
+    },
+    "55": {
+        "course id": "55",
+        "course type": "s-electives",
+        "course code": "ISYE6740"
+    },
+    "56": {
+        "course id": "56",
+        "course type": "s-electives",
+        "course code": "ISYE6805"
+    },
+    "57": {
+        "course id": "57",
+        "course type": "o-electives",
+        "course code": "ISYE6333"
+    },
+    "58": {
+        "course id": "58",
+        "course type": "o-electives",
+        "course code": "ISE6334"
+    },
+    "59": {
+        "course id": "59",
+        "course type": "o-electives",
+        "course code": "ISYE6645"
+    },
+    "60": {
+        "course id": "60",
+        "course type": "o-electives",
+        "course code": "ISYE6650"
+    },
+    "61": {
+        "course id": "61",
+        "course type": "o-electives",
+        "course code": "ISYE6663"
+    },
+    "62": {
+        "course id": "62",
+        "course type": "o-electives",
+        "course code": "ISYE6669"
+    },
+    "63": {
+        "course id": "63",
+        "course type": "o-electives",
+        "course code": "ISYE8803PTA"
+    },
+    "64": {
+        "course id": "64",
+        "course type": "o-electives",
+        "course code": "ISYE8813NEM"
+    },
+    "65": {
+        "course id": "65",
+        "course type": "o-electives",
+        "course code": "ISYE8813VAN"
+    },
+    "66": {
+        "course id": "66",
+        "course type": "o-electives",
+        "course code": "ISYE8813ZIA"
+    },
+    "67": {
+        "course id": "67",
+        "course type": "a-electives",
+        "course code": "CP6514"
+    },
+    "68": {
+        "course id": "68",
+        "course type": "a-electives",
+        "course code": "CP8853"
+    },
+    "69": {
+        "course id": "69",
+        "course type": "a-electives",
+        "course code": "CP6581"
+    },
+    "70": {
+        "course id": "70",
+        "course type": "a-electives",
+        "course code": "ISYE6202"
+    },
+    "71": {
+        "course id": "71",
+        "course type": "a-electives",
+        "course code": "ISYE6335"
+    },
+    "72": {
+        "course id": "72",
+        "course type": "a-electives",
+        "course code": "ISYE7203"
+    },
+    "73": {
+        "course id": "73",
+        "course type": "a-electives",
+        "course code": "ISYE8813THO"
+    },
+    "74": {
+        "course id": "74",
+        "course type": "a-electives",
+        "course code": "ISYE8812ZIA"
+    }
+}
