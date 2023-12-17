@@ -1,0 +1,47 @@
+		.waive{
+			margin-left: 500px;
+		}
+		.core{
+			margin-left: 500px;
+		}
+		#final{
+			margin-left: 500px;
+		}
+		#checkTrack{
+			padding-left: 500px;
+		}
+		img{
+			padding-left: 500px;
+			}
+		input{
+			padding-left: 500px;
+		}
+		#confirmWaived{
+			margin-left: 500px;
+		}
+		#clist{
+			margin-left: 500px;
+		}
+		#elist{
+			margin-left: 500px;
+		}
+		.elective{
+			margin-left: 500px;
+		}
+		body {
+			position: relative;
+		}
+
+		body::before {
+			content: "";
+			background-image: url("tech_tower_web.jpg");
+			background-size: cover;
+			background-position: center;
+			position: fixed; 
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			opacity: 0.3;
+			z-index: -1; 
+		}
